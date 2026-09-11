@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-pubDatetime: 2026-09-12
+pubDatetime: 2026-09-11T00:00:00Z
 description: "我开始用 AstroPaper 搭建自己的博客，并记录这个过程。"
 tags:
   - personal
