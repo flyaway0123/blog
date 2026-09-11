@@ -20,7 +20,8 @@ import { transformerFileName } from "./src/utils/transformers/fileName";
 import config from "./astro-paper.config";
 
 export default defineConfig({
-  site: config.site.url,
+  site: "https://flyaway0123.github.io",
+  base: "/blog/",
   integrations: [
     mdx(),
     sitemap({
